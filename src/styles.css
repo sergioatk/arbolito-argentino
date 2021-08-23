@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding-top: 50px;
+}
+
+.divisa {
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    font-size: 1px;
+}
+
+#cuadro-cotizaciones {
+    padding-top: 50px;
+}
+
+.euro {
+    background-color: #C68293;
+}
+
+.dolar {
+    background-color: #9FCDCD;
+}
+
