@@ -1,0 +1,24 @@
+{
+  "name": "arbolito-argentino",
+  "version": "1.0.0",
+  "description": "Una app para conocer el tipo de cambio blue en la República Argentina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergioatk/arbolito-argentino.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergioatk/arbolito-argentino/issues"
+  },
+  "homepage": "https://github.com/sergioatk/arbolito-argentino#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "express": "^4.17.1"
+  }
+}
