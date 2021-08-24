@@ -4,6 +4,7 @@
   "description": "Una app para conocer el tipo de cambio blue en la República Argentina",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "dev": "npx nodemon index"
   },
   "repository": {
