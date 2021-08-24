@@ -4,4 +4,4 @@ import {mostrarCotizacion} from '/modulos/ui/ui.js'
 
 
 
-buscarEnAPI();
+mostrarCotizacion(buscarEnAPI)
